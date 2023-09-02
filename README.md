@@ -8,7 +8,7 @@
 </div>
 <h1>
   Hello world!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://i.pinimg.com/originals/fe/4c/43/fe4c439f3a1be55b255b19718bd01c52.gif" width="30px"/>
   <div align="center">
   </h1>
 </div>
