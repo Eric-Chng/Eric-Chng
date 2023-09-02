@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://static.wikia.nocookie.net/minecraft/images/b/b3/SnowGolemNew.gif/revision/latest/scale-to-width-down/525?cb=20200314002656" width="200"/>
-</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/eric-cheng-ebc/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
