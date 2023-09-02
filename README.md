@@ -14,11 +14,11 @@
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/eric-cheng-ebc/)https://www.linkedin.com/in/eric-cheng-ebc/
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/eric-cheng-ebc/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin:  eric_cheng-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
   <a href="mailto:echeng68@usc.edu">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/gmail:  echeng68@usc.edu-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
