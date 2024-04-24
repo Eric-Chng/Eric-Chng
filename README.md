@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning new FinTech technologies.
-- 🧠 I’m looking to collaborate on new projects.
+- 🧠 I'm doing research on graph database optimization.
 - 💬 Ask me about my favorite book!
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/eric-cheng-ebc/)https://www.linkedin.com/in/eric-cheng-ebc/
 <div id="badges" align="left">
